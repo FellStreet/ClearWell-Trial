@@ -1,0 +1,35 @@
+ClearWell Trial License Agreement
+===================================
+
+Copyright (c) 2025 FellStreet Bio. All rights reserved.
+
+IMPORTANT – READ CAREFULLY:
+This software is licensed, not sold. By downloading, installing, or using ClearWell (“Software”), you agree to be bound by the terms of this Trial License Agreement.
+
+1. GRANT OF LICENSE
+   FellStreet Bio grants you a limited, non-exclusive, non-transferable license to install and use the Software solely for internal evaluation purposes during the trial period.
+
+2. RESTRICTIONS
+   - You may not copy, distribute, or sublicense the Software.
+   - You may not modify, reverse engineer, decompile, or disassemble the Software.
+   - You may not use the Software for commercial or production purposes without a separate written agreement with FellStreet Bio.
+
+3. OWNERSHIP
+   The Software and all related intellectual property rights remain the sole property of FellStreet Bio.
+
+4. TERM
+   This license begins on the date of installation and automatically terminates after the designated trial period (e.g., 30 days, 6 months, or as otherwise provided by FellStreet Bio). Upon termination, you must stop using and delete all copies of the Software.
+
+5. DISCLAIMER OF WARRANTY
+   THE SOFTWARE IS PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, FELLSTREET BIO SHALL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE.
+
+7. GOVERNING LAW
+   This Agreement shall be governed by and construed in accordance with the laws of the State of California, without regard to conflict of law principles.
+
+---
+
+For commercial licensing inquiries, contact:
+support@fellstreet.bio
