@@ -37,7 +37,7 @@ This software is distributed under a **Trial License** (see [LICENSE.txt](./LICE
 
 ## 🚀 Installation
 
-1. Download the `.zip` from the [latest release](https://github.com/FellStreetBio/ClearWell-Trial/releases/latest).  
+1. Download the `.zip` from the [latest release](https://github.com/FellStreet/ClearWell-Trial/releases/download/v1.0.24/ClearWell-1.0.24.zip)).  
 2. Unzip to a folder of your choice (e.g., `C:\Programs\ClearWell`).  
 3. Double-click `ClearWell.exe` to start.  
 
