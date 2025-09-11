@@ -48,7 +48,7 @@ This software is distributed under a **Trial License** (see [LICENSE.txt](./LICE
 ## 🛠 Support
 
 For questions, feedback, or commercial licensing inquiries:  
-📧 **support@fellstreet.bio**
+📧 **inquiry@fellstreet.bio**
 
 ---
 
