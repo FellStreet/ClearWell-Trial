@@ -9,7 +9,7 @@ This repository distributes **trial builds only**. Source code is not provided.
 
 ## ⬇ Download
 
-👉 [**Download the latest trial release**](https://github.com/FellStreet/ClearWell-Trial/releases/download/v1.0.24/ClearWell-1.0.26.zip)
+👉 [**Download the latest trial release**](https://github.com/FellStreet/ClearWell-Trial/releases/download/v1.0.26/ClearWell-1.0.26.zip)
 
 - Windows 10/11 (64-bit)  
 - Download size ~125 MB  
@@ -37,7 +37,7 @@ This software is distributed under a **Trial License** (see [LICENSE.txt](./LICE
 
 ## 🚀 Installation
 
-1. Download the `.zip` from the [latest release](https://github.com/FellStreet/ClearWell-Trial/releases/download/v1.0.24/ClearWell-1.0.26.zip)).  
+1. Download the `.zip` from the [latest release](https://github.com/FellStreet/ClearWell-Trial/releases/download/v1.0.26/ClearWell-1.0.26.zip)).  
 2. Unzip to a folder of your choice (e.g., `C:\Programs\ClearWell`).  
 3. Double-click `ClearWell.exe` to start.  
 
