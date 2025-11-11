@@ -9,7 +9,7 @@ This repository distributes **trial builds only**. Source code is not provided.
 
 ## ⬇ Download
 
-👉 [**Download the latest trial release**](https://github.com/FellStreet/ClearWell-Trial/releases/download/v1.0.26/ClearWell-1.0.26.zip)
+👉 [**Download the latest trial release**](https://github.com/FellStreet/ClearWell-Trial/releases/download/v1.0.27/ClearWell-1.0.27.zip)
 
 - Windows 10/11 (64-bit)  
 - Download size ~125 MB  
